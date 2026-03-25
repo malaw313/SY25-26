@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "file analyzer", "file analyzer\file analyzer.pyproj", "{73A72FE4-F0F2-4EA3-ADFC-9D43C2B114AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73A72FE4-F0F2-4EA3-ADFC-9D43C2B114AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73A72FE4-F0F2-4EA3-ADFC-9D43C2B114AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFC752BA-2671-4894-9C6B-CA87638802EE}
+	EndGlobalSection
+EndGlobal
